@@ -1,7 +1,0 @@
-header
-======
-
-second
------
-
-> block
